@@ -55,7 +55,7 @@ Maintainers are expected to join regular meetings to discuss the current state o
 Current maintainers are 
 
 - [![](https://github.com/gr2m.png?size=40) Gregor Martynus (@gr2m)](https://github.com/gr2m)
-- [![](https://github.com/pvdlg.png?size=40) Pierre Vanduynslager (@pvdlg)](https://github.com/gr2m)
+- [![](https://github.com/pvdlg.png?size=40) Pierre Vanduynslager (@pvdlg)](https://github.com/pvdlg)
 - [![](https://github.com/boennemann.png?size=40) Stephan Bönnemann (@boennemann)](https://github.com/boennemann)
 
 ## Alumni
