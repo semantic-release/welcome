@@ -44,7 +44,7 @@ After we have seen you contributing several times we will invite you to the Cont
 
 We will probably approach you before you'll even have a chance to ask if you can join the maintainer team :) If you keep contributing by helping out other users, pull request reviews, submitting pull requests yourself, we will notice and ask you to join the team :) If you agree to join, we will invite you to the Maintainers team on the semantic-release GitHub organisation.
 
-The top priority for all maintainers it to make and keep `semantic-release` a welcoming project to everyone. Our [Code of Conduct](CODE_OF_CONDUCT.md) is not only a document, it's our our responsibility to live by it and hold everyone, including ourselves, accountable for our actions.
+The top priority for all maintainers it to make and keep `semantic-release` a welcoming project to everyone. Our [Code of Conduct](CODE_OF_CONDUCT.md) is not only a document, it's our responsibility to live by it and hold everyone, including ourselves, accountable for our actions.
 
 As maintainers we want `semantic-release` to be a vital community. Finding new contirbutors, help users to help themselves, recognise contributions (especially beyond just code) is our responsibility.
 
