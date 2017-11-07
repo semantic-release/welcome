@@ -20,13 +20,13 @@ Once the bug is confrmed, we welcome your pull request to resolve it.
 
 Open Source is ["free as in puppy"](https://opensource.com/article/17/2/hidden-costs-free-software). That means that adding a new feature, no matter how small, means we have to maintain it until the end of time :) Removing features is highly controversial, so we are very careful before adding new ones.
 
-Please create an issue to discuss your feauter request before sending a pull request. Make sure to mention your use case(s) to the issue, not only the solution. That allows us to come find workarounds that might make the feature obsolete, or come up with a better solution for your problem.
+Please create an issue to discuss your feature request before sending a pull request. Make sure to mention your use case(s) to the issue, not only the solution. That allows us to come find workarounds that might make the feature obsolete, or come up with a better solution for your problem.
 
 ### Ask "How do I ..." questions on Stack Overflow
 
 GitHub issues are not well suited for general questions on how to use it, [ask on Stack Overflow](https://stackoverflow.com/questions/tagged/semantic-release) instead. That way others can benefit from it, too. We are monitorng questions tagged with `semantic-release`.
 
-## Contributo to semantic-release
+## Contribute to semantic-release
 
 There are many ways that you can contribute to semantic-release
 
